@@ -6,3 +6,5 @@ class WeatherDataPagination(PageNumberPagination):
 
 class WeatherDataByLocationPagination(PageNumberPagination):
     page_size = 10
+
+
