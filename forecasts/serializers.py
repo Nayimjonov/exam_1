@@ -1,6 +1,3 @@
-from math import trunc
-from tkinter import READABLE
-
 from rest_framework import serializers
 from .models import Forecast
 
